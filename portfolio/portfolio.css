@@ -52,6 +52,6 @@ h3 {
   width: 200px;
   border-radius: 6px;
 }
-img:hover{
+.galeria img:hover{
    transform: scale(1.1);
 }
